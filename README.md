@@ -1,6 +1,6 @@
 # JavaGameEngine
 
-It's a university java game engine project. It is uncomplete but works.
+It's a university java game engine project. It's uncomplete but works.
 The project is divided in two parts:
 
  - engine: which has all the engine classes itself
