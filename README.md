@@ -8,4 +8,4 @@ The project is divided in two parts:
  
 That project also appears in the LonelehKitten GitHub repository that is my personal repository.
 
-The engine was made on IntelliJ IDEA.
+The engine was made using IntelliJ IDEA.
